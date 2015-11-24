@@ -7,4 +7,4 @@ To complete it I use the following tools :
 4.socket.io
 5.Html
 6.Jquery
-7.CSS (Botstrap)
+7.CSS (Bootstrap 3)
