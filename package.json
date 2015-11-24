@@ -1,5 +1,22 @@
 {
-    "name:" "application-name"
-    "version: " "1.0.0"
-    "description: " "This is a Chat Messanger"
+  "name": "application-name",
+  "version": "1.0.0",
+  "description": "A simple chat client using socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Moytri/My-Chat.git"
+  },
+  "author": "Moytri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Moytri/My-Chat/issues"
+  },
+  "homepage": "https://github.com/Moytri/My-Chat#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
 }
